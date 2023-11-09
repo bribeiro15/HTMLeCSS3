@@ -1,0 +1,20 @@
+body  {
+     background: black;
+}
+
+h1{ 
+   text-align: center;
+}
+ 
+p{
+   text-align: center;
+}
+
+strong { 
+    color: blue;
+}
+
+em {
+    color: red;
+}
+
